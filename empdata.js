@@ -83,7 +83,7 @@
       "home": "Cleganes Keep",
       "house": "Lannister",
       "dead": "No"
-    }
+    },
     {
       "name": "Ser Jorah Mormont",
       "home": "Bear Island",
