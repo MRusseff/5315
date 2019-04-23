@@ -89,6 +89,6 @@
       "home": "Bear Island",
       "house": "Mormont",
       "dead": "No"
-    },
+    }
   ]
 }
